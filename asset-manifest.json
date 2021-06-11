@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/imani-aza/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/imani-aza/static/js/main.cf019914.chunk.js",
+    "main.js.map": "/imani-aza/static/js/main.cf019914.chunk.js.map",
+    "runtime-main.js": "/imani-aza/static/js/runtime-main.215316d0.js",
+    "runtime-main.js.map": "/imani-aza/static/js/runtime-main.215316d0.js.map",
+    "static/js/2.e0af3704.chunk.js": "/imani-aza/static/js/2.e0af3704.chunk.js",
+    "static/js/2.e0af3704.chunk.js.map": "/imani-aza/static/js/2.e0af3704.chunk.js.map",
+    "static/js/3.e6034a4a.chunk.js": "/imani-aza/static/js/3.e6034a4a.chunk.js",
+    "static/js/3.e6034a4a.chunk.js.map": "/imani-aza/static/js/3.e6034a4a.chunk.js.map",
+    "index.html": "/imani-aza/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/imani-aza/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e0af3704.chunk.js.LICENSE.txt": "/imani-aza/static/js/2.e0af3704.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.215316d0.js",
+    "static/js/2.e0af3704.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.cf019914.chunk.js"
+  ]
+}
